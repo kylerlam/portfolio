@@ -17,7 +17,7 @@
 | **CSS 方案** | Tailwind CSS v4 | 工具優先 (Utility-First)、原子化 CSS、開發速度快 |
 | **路由** | React Router v7 | SPA 頁面切換 + 頁面過渡動畫 |
 | **部署** | Cloudflare Pages / Vercel | 全球 CDN、免費 HTTPS、自動 CI/CD |
-| **圖標** | react-icons | 整合 20+ 圖標庫（FontAwesome, Material, Devicons 等）|
+| **圖標** | Lucide React v1 | 輕量 SVG 圖標庫、Tree-Shakable、風格統一 |
 | **字體** | Google Fonts (Inter / Outfit) | 現代感 Sans-Serif |
 
 > [!NOTE]
